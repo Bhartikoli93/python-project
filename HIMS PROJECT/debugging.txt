@@ -1,0 +1,6 @@
+1) Variable Name Questions = QUESTIONS 
+2) key name data = 'data'
+3) regex format  '^//+91-[0-9]{10}$' = '^/+91-[0-9]{10}$]'
+4) indent chat()  if [low variable below if] =  [inside if ]
+5) summary[assigned_department] =  assign_department
+6) sql.cursor() = conn.cursor() 
